@@ -16,8 +16,8 @@
 4. **禁止假冒与私自传播**：  
    - 禁止在未修改的情况下，将资产作为个人原创作品对外发布或出售。  
    - 允许转载或打包分享，但必须保留原作者署名与仓库链接，不得移除或篡改。
-
+## 协议声明 / License
+- **协议类型**： [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 ---
-
 © [2025] [MeaoXiao]. 保留所有权利。  
 This repository is shared under a **non-commercial, attribution, share-alike license**.
